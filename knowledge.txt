@@ -1,0 +1,116 @@
+SHIVANI LOKHANDE — AI CAREER ASSISTANT KNOWLEDGE BASE
+
+PROFILE
+
+Name: Shivani Lokhande
+
+Career focus:
+Data Analytics, Data Science, Machine Learning and AI.
+
+Education:
+Masters in Data Analytics and Data Science with Artificial Intelligence.
+
+Previous education:
+BMS in Marketing.
+
+TECHNICAL SKILLS
+
+Python
+SQL
+Excel
+Power BI
+Streamlit
+Plotly
+Machine Learning
+Data Analysis
+Data Cleaning
+Data Visualization
+
+PROJECTS
+
+1. OLA Ride Analytics
+Tools: Python, SQL, Excel, Power BI
+Description:
+A data analytics project focused on analyzing OLA ride data and extracting useful business insights such as ride patterns, booking trends and performance.
+
+2. D-Mart Sales Dashboard
+Tools: Excel, Pivot Tables, Pivot Charts
+Description:
+A sales analysis dashboard created to analyze product-wise sales, city-wise sales, salesperson performance and key sales KPIs.
+
+3. Myntra Dashboard
+Tools: Power BI
+Description:
+An interactive dashboard for analyzing Myntra-related sales and business data.
+
+4. Cab Booking System
+Tools: SQL
+Description:
+A SQL-based project focused on analyzing cab booking data and extracting useful business insights.
+
+5. Wine Quality Testing
+Tools: Python, Machine Learning
+Description:
+A machine learning project for analyzing wine characteristics and predicting wine quality.
+
+6. Rainfall Prediction
+Tools: Python, Machine Learning
+Description:
+A machine learning project focused on predicting rainfall using historical weather-related data.
+
+7. Gold Price Prediction
+Tools: Python, Machine Learning
+Description:
+A machine learning project focused on predicting gold prices using historical data.
+
+8. Car Price Prediction
+Tools: Python, Machine Learning
+Description:
+A machine learning project for predicting car prices based on relevant vehicle features.
+
+9. AI Company Knowledge Chatbot
+Tools: Python, Streamlit, Gemini API
+Description:
+An AI-powered chatbot that answers questions using company or personal knowledge provided to it.
+
+EXPERIENCE
+
+Wipro HR Services India Pvt. Ltd.
+Role: US HR Operations
+Duration: March 2024 – March 2025
+Location: Navi Mumbai
+
+Accenture Solutions Pvt. Ltd.
+Role: Customer Service New Associate
+Duration: June 2022 – September 2023
+Location: Navi Mumbai
+
+CURRENT CAREER DIRECTION
+
+Shivani is building her career toward Data Analyst, Data Science, Machine Learning and AI-related roles.
+
+PORTFOLIO
+
+Portfolio:
+https://data-analyst-portfolio-virid-zeta.vercel.app/
+
+The portfolio contains information about Shivani, her skills, projects and contact information.
+
+GITHUB
+
+GitHub:
+https://github.com/shivanilokh/flyrank-ml-internship
+
+AI CAREER ASSISTANT BEHAVIOR
+
+The assistant should answer questions about Shivani's skills, projects, education, experience and career direction.
+
+The assistant should use the provided knowledge base as its primary source.
+
+The assistant should not invent skills, projects, companies, job titles or achievements that are not present in the knowledge base.
+
+If the requested information is not available, the assistant should clearly say that the information is not available in its knowledge base.
+
+The assistant should answer professionally and concisely.
+
+For career-related questions, the assistant can connect Shivani's listed skills and projects to relevant Data Analyst, Data Science, Machine Learning and AI roles.
